@@ -1,36 +1,45 @@
-# Web Application Security Assessment
+# James Wigfall – Cybersecurity Portfolio
 
-## Overview
-This project demonstrates a security assessment of a Python-based web application using industry-standard tools. The goal was to identify vulnerabilities, analyze risk, and provide remediation strategies.
+Active Duty Space Force | Cybersecurity | DFIR | Incident Response | Threat Intelligence
 
-## Tools Used
-- OWASP ZAP (DAST)
-- Bandit (SAST)
-- OWASP Dependency-Check (SCA)
+This repository showcases hands-on cybersecurity projects across multiple domains including network security, cloud security, penetration testing, threat intelligence, and digital forensics.
 
-## Methodology
-- Performed static code analysis using Bandit
-- Conducted dependency scanning for vulnerable libraries
-- Executed dynamic application testing using OWASP ZAP
-- Reviewed findings and categorized by severity
+## 🔍 Core Areas
 
-## Key Findings
-- Cross Site Scripting (Reflected) – High
-- Missing Security Headers – Medium
-- Insecure Dependencies (Log4j) – Critical
-- Weak Cryptographic Usage – Medium
+### Threat Assessment
+- Risk analysis using NIST frameworks
+- Real-world incident investigations
+- Security audits and executive reporting
 
-## Remediation
-- Implement input validation and output encoding
-- Apply Content Security Policy (CSP) headers
-- Update vulnerable dependencies
-- Enforce secure cookie configurations
+### Network Security
+- Packet analysis (Wireshark)
+- Port scanning (Nmap)
+- Firewall configuration
 
-## Screenshots
-See `/assets/` for tool output and scan results.
+### Cloud Security
+- AWS secure architecture design
+- IAM and VPC implementation
+- Cost and risk analysis
 
-## Skills Demonstrated
-- Vulnerability Assessment
-- Application Security (AppSec)
-- Security Tool Usage (SAST, DAST, SCA)
-- Risk Analysis and Mitigation
+### Penetration Testing
+- Web application vulnerabilities (OWASP Top 10)
+- Injection attack analysis
+- Attack simulation scenarios
+
+### Threat Intelligence
+- Threat landscape analysis (DBIR, etc.)
+- Secure design principles
+- Strategic cyber risk insights
+
+### Additional Expertise
+- Digital Forensics
+- Incident Response
+- Zero Trust Architecture
+- STIG Hardening
+- Cryptography
+
+## 🎯 Career Focus
+- SOC Analyst
+- Incident Response Analyst
+- Threat Intelligence Analyst
+- Cybersecurity Analyst
